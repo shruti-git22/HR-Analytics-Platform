@@ -37,9 +37,12 @@ Built HR analytics dashboard analyzing 3 months of employee attendance for 100+ 
 
 ##### Over Months:
 <img width="659" height="259" alt="image" src="https://github.com/user-attachments/assets/3115db02-05a2-4872-a725-479555885b1d" />
-- Least Presence month - May 
+
+- Least Presence month - May
+
 ##### Over Week:
 <img width="240" height="201" alt="image" src="https://github.com/user-attachments/assets/eeaf5163-059f-4977-b3b7-f2b6a2586956" />
+
 - Least Presence day - Friday 
 
 
@@ -47,10 +50,12 @@ Built HR analytics dashboard analyzing 3 months of employee attendance for 100+ 
 
 ##### Over Months :
 <img width="665" height="256" alt="image" src="https://github.com/user-attachments/assets/3aaed49d-a11e-4305-942d-d3b837c74728" />
+
 - Highest WFH month - May 
 
 ##### Over Week: 
 <img width="243" height="194" alt="image" src="https://github.com/user-attachments/assets/593dcef2-7752-4e66-9e2c-a764d6385dde" />
+
 - Highest WFH day - Friday
 
 
@@ -58,10 +63,12 @@ Built HR analytics dashboard analyzing 3 months of employee attendance for 100+ 
 
 ##### Over Months :
 <img width="663" height="251" alt="image" src="https://github.com/user-attachments/assets/dd3b683a-9ed3-4f1f-a024-e1b8dbfb4c85" />
+
 - Highest SL month - May 
 
 ##### Over Week: 
 <img width="247" height="212" alt="image" src="https://github.com/user-attachments/assets/f3a08bfe-3a21-429f-a0f8-188150d5c648" />
+
 - Highest SL day - Monday
 
 ## Recommendations :
@@ -75,9 +82,18 @@ Built HR analytics dashboard analyzing 3 months of employee attendance for 100+ 
 ## Technical Details :
 
 Attendance dataset - 
+in xlsx format - 
+https://github.com/shruti-git22/HR-Analytics-Platform/blob/main/HR%20Analytics%20Attendance%20Data.xlsx
+
+in csv format -
+https://github.com/shruti-git22/HR-Analytics-Platform/blob/main/HR%20Analytics%20Attendance%20Data.xlsx
 
 Dashboard - 
+https://github.com/shruti-git22/HR-Analytics-Platform/blob/main/HR_Analytics_Dashboard.pbix
 
 ## Caveats and Assumptions :
-- Absence in attendance can be due to 
-
+- All attendance data(presence, WFH, half WFH, SL) are accurate.
+- Work from home is considered equal to presence.
+- No new joiners and exits during the period.
+- Company events are constant across months.
+- Absentee due to exam, project end, etc are not considered as presentee. 
