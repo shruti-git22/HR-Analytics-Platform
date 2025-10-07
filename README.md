@@ -81,9 +81,9 @@ Built HR analytics dashboard analyzing 3 months of employee attendance for 100+ 
 
 ## Technical Details :
 
-Attendance dataset -  [in xlsx format](https://github.com/shruti-git22/HR-Analytics-Platform/blob/main/HR%20Analytics%20Attendance%20Data.xlsx) [in csv format](https://github.com/shruti-git22/HR-Analytics-Platform/blob/main/HR%20Analytics%20Attendance%20Data.csv)
+Attendance dataset -  [📄xlsx](https://github.com/shruti-git22/HR-Analytics-Platform/blob/main/HR%20Analytics%20Attendance%20Data.xlsx)  [📄csv](https://github.com/shruti-git22/HR-Analytics-Platform/blob/main/HR%20Analytics%20Attendance%20Data.csv)
 
-Dashboard - [Power BI Dashboard](https://github.com/shruti-git22/HR-Analytics-Platform/blob/main/HR_Analytics_Dashboard.pbix)
+Dashboard - [📊Power BI Dashboard](https://github.com/shruti-git22/HR-Analytics-Platform/blob/main/HR_Analytics_Dashboard.pbix)
 
 ## Caveats and Assumptions :
 - All attendance data(presence, WFH, half WFH, SL) are accurate.
