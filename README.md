@@ -81,9 +81,8 @@ Built HR analytics dashboard analyzing 3 months of employee attendance for 100+ 
 
 ## Technical Details :
 
-Attendance dataset - 
-in xlsx format - 
-https://github.com/shruti-git22/HR-Analytics-Platform/blob/main/HR%20Analytics%20Attendance%20Data.xlsx
+Attendance dataset -  
+[in xlsx format]https://github.com/shruti-git22/HR-Analytics-Platform/blob/main/HR%20Analytics%20Attendance%20Data.xlsx 
 
 in csv format -
 https://github.com/shruti-git22/HR-Analytics-Platform/blob/main/HR%20Analytics%20Attendance%20Data.xlsx
